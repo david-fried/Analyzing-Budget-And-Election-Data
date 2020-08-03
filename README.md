@@ -1,6 +1,4 @@
-David Fried
-Data Science Bootcamp
-6/20/20
+Data Science Bootcamp 6/20/20
 
 Demonstrated knowledge of Python:
 For loops and conditions
