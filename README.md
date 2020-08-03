@@ -1,7 +1,10 @@
-#David Fried
-#Data Science Bootcamp
-#6/20/20
+David Fried
+Data Science Bootcamp
+6/20/20
 
-Demonstrated knowledge of Python: Nested for loops and conditionals Conditional Formatting
+Demonstrated knowledge of Python:
+For loops and conditions
+File input and output
+Formatting
 
-Code Snippet:
+*Please see My_First_Python_Program to get a better understanding of my Python knowledge (over 1,300 lines of code).
