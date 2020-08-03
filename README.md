@@ -1,7 +1,7 @@
 Data Science Bootcamp 6/20/20
 
 Demonstrated knowledge of Python:
-For loops and conditions
+For loops and conditional statements
 File input and output
 Formatting
 
