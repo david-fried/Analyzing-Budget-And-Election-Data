@@ -1,3 +1,1 @@
-# python-challenge
-
-Had to Zip the PyPoll folder contents because the election data file is huge.
+Python homework assignment from Northwestern Data Science Bootcamp.
